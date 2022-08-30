@@ -1,1 +1,1 @@
-Second attempt to GIT
+updated readme file
