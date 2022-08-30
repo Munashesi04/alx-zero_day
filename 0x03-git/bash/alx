@@ -1,4 +1,3 @@
-
-
-echo "ALX School is so cool!""
-echo "ALX School is so cool!"" parent of 67280ee (Merge branch 'update_script')
+#!/bin/bash
+ 
+echo "ALX School is so cool!"
